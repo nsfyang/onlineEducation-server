@@ -2,22 +2,22 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
+    <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.nsfyang</groupId>
         <artifactId>onlineEducation-server</artifactId>
         <version>3.6.3</version>
     </parent>
-    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>onlineEducation-api</artifactId>
+    <packaging>pom</packaging>
+    <description>
+        onlineEducation-api 系统接口
+    </description>
+
     <modules>
-        <module>onlineEducation-common-core</module>
-        <module>onlineEducation-common-log</module>
-        <module>onlineEducation-common-redis</module>
-        <module>onlineEducation-common-security</module>
+        <module>onlineEducation-api-system</module>
     </modules>
 
-    <artifactId>onlineEducation-common</artifactId>
-    <packaging>pom</packaging>
-    <description>onlineEducation-common 通用模块</description>
 
 </project>

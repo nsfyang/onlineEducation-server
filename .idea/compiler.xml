@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="onlineEducation-gen" />
+        <module name="onlineEducation-common-redis" />
+        <module name="onlineEducation-api-system" />
+        <module name="onlineEducation-common-security" />
+        <module name="onlineEducation-common-core" />
+        <module name="onlineEducation-common-log" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="onlineEducation-server" target="1.8" />
+      <module name="onlineEduction-common" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

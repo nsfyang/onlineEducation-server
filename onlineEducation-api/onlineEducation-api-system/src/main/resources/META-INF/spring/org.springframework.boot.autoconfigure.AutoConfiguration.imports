@@ -1,0 +1,3 @@
+com.nsfyang.system.api.factory.RemoteUserFallbackFactory
+com.nsfyang.system.api.factory.RemoteLogFallbackFactory
+com.nsfyang.system.api.factory.RemoteFileFallbackFactory

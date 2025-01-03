@@ -1,0 +1,2 @@
+com.nsfyang.common.log.service.AsyncLogService
+com.nsfyang.common.log.aspect.LogAspect

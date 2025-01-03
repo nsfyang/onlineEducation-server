@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.nsfyang</groupId>
+        <artifactId>onlineEducation-api</artifactId>
+        <version>3.6.3</version>
+    </parent>
+
+    <artifactId>onlineEducation-api-system</artifactId>
+
+    <description>onlineEducation-api-system 系统接口模块</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.nsfyang</groupId>
+            <artifactId>onlineEducation-common-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.nsfyang</groupId>
+            <artifactId>onlineEducation-common-core</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>
