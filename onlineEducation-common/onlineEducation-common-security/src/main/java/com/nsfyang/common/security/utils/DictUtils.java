@@ -1,4 +1,4 @@
-package com.nsfyang.security.utils;
+package com.nsfyang.common.security.utils;
 
 import com.alibaba.fastjson2.JSONArray;
 import com.nsfyang.common.core.constant.CacheConstants;

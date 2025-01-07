@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.nsfyang</groupId>
         <artifactId>onlineEducation-server</artifactId>
-        <version>3.6.3</version>
+        <version>3.6.5</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <modules>
@@ -14,6 +14,7 @@
         <module>onlineEducation-common-log</module>
         <module>onlineEducation-common-redis</module>
         <module>onlineEducation-common-security</module>
+        <module>onlineEducation-common-sensitive</module>
     </modules>
 
     <artifactId>onlineEducation-common</artifactId>

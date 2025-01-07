@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/onlineEducation-api/onlineEducation-api-system/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-auth/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-log/src/main/java" charset="UTF-8" />
@@ -13,8 +15,14 @@
     <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-redis/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-security/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-sensitive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-common-sensitive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-sensitive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-common/onlineEducation-sensitive/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onlineEducation-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-modules/onlineEducation-gen/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-modules/onlineEducation-gen/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/onlineEducation-modules/src/main/java" charset="UTF-8" />

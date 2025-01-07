@@ -36,4 +36,14 @@ public interface RemoteUserService
      */
     @PostMapping("/user/register")
     public R<Boolean> registerUserInfo(@RequestBody SysUser sysUser, @RequestHeader(SecurityConstants.FROM_SOURCE) String source);
+
+    /**
+     * 记录用户登录IP地址和登录时间
+     *
+     * @param sysUser 用户信息
+     * @param source 请求来源
+     * @return 结果
+     */
+    @PutMapping("/user/recordlogin")
+    public R<Boolean> recordUserLogin(@RequestBody SysUser sysUser, @RequestHeader(SecurityConstants.FROM_SOURCE) String source);
 }

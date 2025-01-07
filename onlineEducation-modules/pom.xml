@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.nsfyang</groupId>
         <artifactId>onlineEducation-server</artifactId>
-        <version>3.6.3</version>
+        <version>3.6.5</version>
     </parent>
 
     <artifactId>onlineEducation-modules</artifactId>

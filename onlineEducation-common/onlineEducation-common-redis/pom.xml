@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.nsfyang</groupId>
         <artifactId>onlineEducation-common</artifactId>
-        <version>3.6.3</version>
+        <version>3.6.5</version>
     </parent>
 
     <artifactId>onlineEducation-common-redis</artifactId>
@@ -19,7 +19,7 @@
            <artifactId>spring-boot-starter-data-redis</artifactId>
        </dependency>
 
-       <!-- RuoYi Common Core-->
+       <!-- nsfYang Common Core-->
        <dependency>
            <groupId>com.nsfyang</groupId>
            <artifactId>onlineEducation-common-core</artifactId>

@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.nsfyang</groupId>
         <artifactId>onlineEducation-api</artifactId>
-        <version>3.6.3</version>
+        <version>3.6.5</version>
     </parent>
 
     <artifactId>onlineEducation-api-system</artifactId>
@@ -14,10 +14,6 @@
     <description>onlineEducation-api-system 系统接口模块</description>
 
     <dependencies>
-        <dependency>
-            <groupId>com.nsfyang</groupId>
-            <artifactId>onlineEducation-common-core</artifactId>
-        </dependency>
         <dependency>
             <groupId>com.nsfyang</groupId>
             <artifactId>onlineEducation-common-core</artifactId>
