@@ -9,21 +9,16 @@ public class ServiceNameConstants {
     /**
      * 认证服务的serviceid
      */
-    public static final String AUTH_SERVICE = "CarServer-auth";
+    public static final String AUTH_SERVICE = "onlineEducation-auth";
 
     /**
      * 系统模块的serviceid
      */
-    public static final String SYSTEM_SERVICE = "CarServer-system";
-
-    /**
-     * 用户模块的serviceid
-     */
-    public static final String CONSUMER_SERVICE = "CarServer-consumer-system";
+    public static final String SYSTEM_SERVICE = "onlineEducation-system";
 
     /**
      * 文件服务的serviceid
      */
-    public static final String FILE_SERVICE = "CarServer-file";
+    public static final String FILE_SERVICE = "onlineEducation-file";
 
 }

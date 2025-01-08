@@ -5,7 +5,7 @@ import com.nsfyang.common.core.utils.StringUtils;
 /**
  * 脱敏工具类
  *
- * @author ruoyi
+ * @author nsfyang
  */
 public class DesensitizedUtil
 {

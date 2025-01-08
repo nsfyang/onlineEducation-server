@@ -15,6 +15,9 @@
         <module>onlineEducation-common-redis</module>
         <module>onlineEducation-common-security</module>
         <module>onlineEducation-common-sensitive</module>
+        <module>onlineEducation-common-seata</module>
+        <module>onlineEducation-common-datascope</module>
+        <module>onlineEducation-common-datasource</module>
     </modules>
 
     <artifactId>onlineEducation-common</artifactId>
